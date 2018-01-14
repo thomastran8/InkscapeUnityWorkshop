@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: ccd5bdc7b2b898b49807f007b48256f8
+timeCreated: 1515837593
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BubbleBoy_Hand_L
+    21300002: BubbleBoy_Head
+    21300004: BubbleBoy_Hand_R
+    21300006: BubbleBoy_Feet_L
+    21300008: BubbleBoy_Feet_R
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BubbleBoy_Hand_L
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BubbleBoy_Head
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 225
+        width: 782
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BubbleBoy_Hand_R
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 432
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BubbleBoy_Feet_L
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 282
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BubbleBoy_Feet_R
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 282
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape:
+    - - {x: -118, y: -347}
+      - {x: -123, y: -337}
+      - {x: -125, y: -330}
+      - {x: -146, y: -314}
+      - {x: -368, y: -314}
+      - {x: -384, y: -320}
+      - {x: -397, y: -335}
+      - {x: -402, y: -349}
+      - {x: -402, y: -476}
+      - {x: -386, y: -499}
+      - {x: -374, y: -503}
+      - {x: -144, y: -503}
+      - {x: -122, y: -487}
+      - {x: -118, y: -469}
+    - - {x: 402, y: -341}
+      - {x: 384, y: -319}
+      - {x: 369, y: -315}
+      - {x: 364, y: -314}
+      - {x: 146, y: -314}
+      - {x: 125, y: -330}
+      - {x: 118, y: -344}
+      - {x: 118, y: -479}
+      - {x: 137, y: -500}
+      - {x: 146, y: -503}
+      - {x: 373, y: -503}
+      - {x: 385, y: -497}
+      - {x: 398, y: -482}
+      - {x: 402, y: -471}
+    - - {x: 271, y: -268}
+      - {x: 285, y: -263}
+      - {x: 300, y: -254}
+      - {x: 323, y: -238}
+      - {x: 344, y: -218}
+      - {x: 354, y: -205}
+      - {x: 359, y: -198}
+      - {x: 368, y: -185}
+      - {x: 377, y: -166}
+      - {x: 384, y: -151}
+      - {x: 389, y: -128}
+      - {x: 391, y: -116}
+      - {x: 392, y: -107}
+      - {x: 392, y: 332}
+      - {x: 391, y: 341}
+      - {x: 389, y: 353}
+      - {x: 385, y: 370}
+      - {x: 382, y: 382}
+      - {x: 368, y: 410}
+      - {x: 365, y: 415}
+      - {x: 357, y: 427}
+      - {x: 345, y: 442}
+      - {x: 323, y: 463}
+      - {x: 305, y: 477}
+      - {x: 282, y: 488}
+      - {x: 268, y: 495}
+      - {x: 251, y: 499}
+      - {x: 243, y: 501}
+      - {x: 232, y: 503}
+      - {x: -233, y: 503}
+      - {x: -251, y: 499}
+      - {x: -275, y: 491}
+      - {x: -293, y: 483}
+      - {x: -311, y: 472}
+      - {x: -323, y: 463}
+      - {x: -329, y: 457}
+      - {x: -344, y: 443}
+      - {x: -359, y: 424}
+      - {x: -368, y: 410}
+      - {x: -378, y: 389}
+      - {x: -384, y: 376}
+      - {x: -389, y: 353}
+      - {x: -391, y: 341}
+      - {x: -392, y: 332}
+      - {x: -392, y: -107}
+      - {x: -391, y: -116}
+      - {x: -389, y: -133}
+      - {x: -381, y: -156}
+      - {x: -377, y: -166}
+      - {x: -365, y: -190}
+      - {x: -350, y: -211}
+      - {x: -330, y: -232}
+      - {x: -319, y: -241}
+      - {x: -308, y: -249}
+      - {x: -293, y: -258}
+      - {x: -276, y: -267}
+      - {x: -258, y: -273}
+      - {x: -237, y: -278}
+      - {x: -224, y: -279}
+      - {x: -210, y: -280}
+      - {x: 210, y: -280}
+      - {x: 224, y: -279}
+      - {x: 237, y: -277}
+      - {x: 259, y: -273}
+    - - {x: -435, y: -23}
+      - {x: -425, y: 0}
+      - {x: -425, y: 37}
+      - {x: -428, y: 51}
+      - {x: -432, y: 61}
+      - {x: -437, y: 72}
+      - {x: -446, y: 86}
+      - {x: -463, y: 102}
+      - {x: -483, y: 112}
+      - {x: -495, y: 116}
+      - {x: -502, y: 119}
+      - {x: -533, y: 119}
+      - {x: -546, y: 116}
+      - {x: -556, y: 113}
+      - {x: -570, y: 106}
+      - {x: -579, y: 100}
+      - {x: -600, y: 79}
+      - {x: -611, y: 58}
+      - {x: -614, y: 46}
+      - {x: -614, y: 0}
+      - {x: -609, y: -16}
+      - {x: -602, y: -29}
+      - {x: -581, y: -51}
+      - {x: -573, y: -58}
+      - {x: -552, y: -68}
+      - {x: -537, y: -72}
+      - {x: -508, y: -72}
+      - {x: -485, y: -67}
+      - {x: -466, y: -57}
+      - {x: -448, y: -40}
+    - - {x: 595, y: -37}
+      - {x: 604, y: -24}
+      - {x: 614, y: -3}
+      - {x: 614, y: 48}
+      - {x: 613, y: 52}
+      - {x: 604, y: 73}
+      - {x: 586, y: 95}
+      - {x: 570, y: 107}
+      - {x: 547, y: 117}
+      - {x: 537, y: 119}
+      - {x: 507, y: 119}
+      - {x: 488, y: 114}
+      - {x: 472, y: 107}
+      - {x: 458, y: 97}
+      - {x: 442, y: 81}
+      - {x: 436, y: 72}
+      - {x: 427, y: 51}
+      - {x: 425, y: 35}
+      - {x: 425, y: 9}
+      - {x: 429, y: -10}
+      - {x: 436, y: -23}
+      - {x: 448, y: -40}
+      - {x: 458, y: -49}
+      - {x: 471, y: -60}
+      - {x: 491, y: -69}
+      - {x: 499, y: -71}
+      - {x: 506, y: -72}
+      - {x: 529, y: -72}
+      - {x: 542, y: -71}
+      - {x: 557, y: -65}
+      - {x: 573, y: -57}
+      - {x: 581, y: -51}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
